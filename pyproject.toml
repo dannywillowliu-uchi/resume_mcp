@@ -30,9 +30,9 @@ dependencies = [
 latex-resume-mcp = "latex_resume_mcp:main"
 
 [project.urls]
-Homepage = "https://github.com/dannyliu/latex-resume-mcp"
-Repository = "https://github.com/dannyliu/latex-resume-mcp"
-Issues = "https://github.com/dannyliu/latex-resume-mcp/issues"
+Homepage = "https://github.com/dannywillowliu-uchi/resume_mcp"
+Repository = "https://github.com/dannywillowliu-uchi/resume_mcp"
+Issues = "https://github.com/dannywillowliu-uchi/resume_mcp/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/latex_resume_mcp"]
